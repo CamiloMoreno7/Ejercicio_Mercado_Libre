@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b9d6dc2-91db-4aea-9350-c0156ecc16cd" name="Changes" comment="Proyecto Automatizacion Pagina Mercadolibre">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Rec_Global.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Rec_Navegador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test_Mercado_Libre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rec_Navegador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rec_Navegador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +51,7 @@
       <recent name="C:\Users\USUARIO\Documents\Curso Java\Ejercicio_Mercado_Libre\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Test_Mercado_Libre.BuscarPagina">
+  <component name="RunManager" selected="JUnit.Test_Mercado_Libre">
     <configuration name="Test_Mercado_Libre" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Ejercicio_Mercado_Libre" />
       <option name="PACKAGE_NAME" value="" />
@@ -90,9 +83,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Test_Mercado_Libre" />
         <item itemvalue="JUnit.Test_Mercado_Libre.BuscarPagina" />
         <item itemvalue="JUnit.Test_Mercado_Libre.imprimirPagina" />
-        <item itemvalue="JUnit.Test_Mercado_Libre" />
       </list>
     </recent_temporary>
   </component>

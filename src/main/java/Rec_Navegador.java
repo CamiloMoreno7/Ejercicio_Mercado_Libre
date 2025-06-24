@@ -19,7 +19,7 @@ public class Rec_Navegador {
         options.addArguments("-incognito");
 
             System.setProperty("webdriver.chrome.driver",
-                    "C:\\Users\\USUARIO\\Documents\\Curso Java\\Ejercicio_Mercado_Libre\\src\\main\\resources\\chromedriver.exe");
+                    "src/main/resources/chromedriver.exe");
             driver = new ChromeDriver(options);
             driver.get(url);
             driver.manage().timeouts().implicitlyWait(10, TimeUnit.MINUTES);
